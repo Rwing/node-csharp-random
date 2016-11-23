@@ -13,3 +13,4 @@ console.log(random.Next());
 console.log(random.Next(1, 99999999));
 console.log(random.Next(10, 20));
 console.log(random.Next(10));
+console.log(random.NextDouble());

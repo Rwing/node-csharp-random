@@ -1,6 +1,6 @@
 {
   "name": "node-csharp-random",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a random library like as Random Class of C#",
   "main": "index.js",
   "scripts": {
