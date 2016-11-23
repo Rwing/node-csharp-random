@@ -1,0 +1,24 @@
+{
+  "name": "node-csharp-random",
+  "version": "0.0.1",
+  "description": "a random library like as Random Class of C#",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rwing/node-csharp-random.git"
+  },
+  "keywords": [
+    "random",
+    "csharp-random",
+    "seed-random"
+  ],
+  "author": "Rwing@Rwing.cn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rwing/node-csharp-random/issues"
+  },
+  "homepage": "https://github.com/Rwing/node-csharp-random#readme"
+}

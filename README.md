@@ -1,2 +1,2 @@
 # node-csharp-random
-a random library like as C# Random class
+a random library like as Random Class of C#
