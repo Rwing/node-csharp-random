@@ -1,4 +1,6 @@
 # node-csharp-random
+[![npm version](https://badge.fury.io/js/node-csharp-random.svg)](https://badge.fury.io/js/node-csharp-random)
+
 a random library like as Random Class of C#
 ```
 var Random = require('node-csharp-random');
